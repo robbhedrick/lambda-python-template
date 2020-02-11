@@ -1,2 +1,2 @@
 # lambda-python-template
-Basic template for starting Python based AWS Lambda functions
+Some basic bash scripts for building a Python based AWS Lambda function.
